@@ -1,7 +1,7 @@
 
 
 rest/rest.js
+rest/method-args.js
 rest/i-method.js
-rest/i-result-handler.js
 rest/i-method-factory.js
 rest/method.js
